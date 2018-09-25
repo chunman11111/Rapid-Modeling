@@ -41,7 +41,15 @@ This micro course is designed for non-design background students to start modeli
 ## Manual Modeling
 
 * Everyone can model: concepts
-  * Digital clay
   * 3D space - coordinate system
   * Point (vertex) - line (curve) - face (surface) - solid (volume)
-  * 
+  * Geometric modeling
+* SketchUp Free
+  * Primitives
+  * Composition
+  * Color & Texture
+  * Grouping
+  * Component
+  * Export
+  
+  
