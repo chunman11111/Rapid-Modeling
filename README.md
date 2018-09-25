@@ -13,9 +13,9 @@ This micro course is designed for non-design background students to start modeli
 
 本課程為針對非設計背景學生設計的微學分課程，主要運用雲端、影像等簡易工具，學習3D建模基礎，可供應用於插圖、視覺化、與虛擬實境等用途。課程合計18小時，分為三單元，每單元6小時，每次上課3小時。三個單元為：
 
-1. 手動建模：概念與基礎
-2. 影像建模：簡介與基礎
-3. 混搭建模：簡介與應用
+1. 手動建模：概念與基礎 &rarr; 09/25, 26
+2. 影像建模：簡介與基礎 &rarr; 10/2, 3
+3. 混搭建模：簡介與應用 &rarr; 10/16, 17
 
 ## Tools for Manual Modeling
 
@@ -36,7 +36,10 @@ This micro course is designed for non-design background students to start modeli
   * Sign up an Autodesk account or use a social media account to download.
   * PROS: Free for Academic users. Feasible for users from entry to professional levels.
   * CONS: Starts easy, yet the learning curve for advanced features is steep.
-* Rhinocerous (Download for Mac/Win)
+* Rhinocerous ([Download for Mac/Win](https://www.rhino3d.com/tw/download))
+  * Full function trial version for 3-month.
+  * Rhino 6 for Windows: if you want to use it after the trial period, contact me for a NCTU license.
+  * Rhino 5 for Mac: a license needs to be purchased after the trial period.
 * [Other free online 3D CAD/modeling softwares...](https://all3dp.com/1/best-free-online-cad-software/)
 
 ## Manual Modeling
