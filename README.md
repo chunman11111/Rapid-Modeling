@@ -26,30 +26,40 @@ This micro course is designed for non-design background students to start modeli
   * CONS: Internet is required. Limited exporting file formats. No plug-in supports. No solid modeling (boolean operations).
   * Format: \*.skp
   * Exports: \*.png, \*.stl 
-* [SketchUp Make 2017](https://www.sketchup.com/download/all) (for Mac/Win)
+* SketchUp Make 2017 ([Downloads for Mac/Win](https://www.sketchup.com/download/all))
   * File format: \*.skp
   * Exports: \*.dae, \*.kmz, \*.jpg, \*.png, \*.tif
 * [Tinkercad](https://www.tinkercad.com/) by Autodesk (cloud only)
   * Sign up an Autodesk account or use a social media account.
   * Exports: \*.stl, \*.obj, \*.svg
-* [Fusion 360](https://www.autodesk.com/education/free-software/featured) (for Mac/Win)
+* Fusion 360 ([Downloads for Mac/Win](https://www.autodesk.com/education/free-software/featured))
   * Sign up an Autodesk account or use a social media account to download.
   * PROS: Free for Academic users. Feasible for users from entry to professional levels.
   * CONS: Starts easy, yet the learning curve for advanced features is steep.
+* Rhinocerous (Download for Mac/Win)
 * [Other free online 3D CAD/modeling softwares...](https://all3dp.com/1/best-free-online-cad-software/)
 
 ## Manual Modeling
 
-* Everyone can model: concepts
-  * 3D space - coordinate system
-  * Point (vertex) - line (curve) - face (surface) - solid (volume)
-  * Geometric modeling
+就像雕塑技法是立體造型的基礎一樣，手動建模是3D建模的基本功，有助於建構空間、座標、幾何、形體觀念以及工具的操作手感。還是要好好練。
+
+* Everyone can model: concepts 人人都能建模：觀念篇
+  * 3D space & coordinate system 三維空間和座標系統
+  * Point (vertex) - line (curve) - face (surface) - solid (volume) 點、線、面、體
+  * Geometric modeling 幾何建模
+  * NURBS Modeling 曲線/曲面建模
+  * Polygon Modeling 多面體建模
+  * Mesh Modeling 網格建模
+    * Subdivision Surfaces 曲面細分
 * SketchUp Free
-  * Primitives
-  * Composition
-  * Color & Texture
-  * Grouping
-  * Component
-  * Export
-  
+  * Primitives & basic tools 原形與基本工具
+  * Composition 混用與組合
+  * Linear/Rotational Copy 線性/旋轉複製
+  * Color & Texture 顏色與質感
+  * Grouping 群組
+  * Component 元件
+  * Export 匯出
+  * Measurement 測量
+* SketchUp Make
+  * Match Photo 相片對照建模法 [Tutorial](https://help.sketchup.com/en/sketchup/matching-photo-model-or-model-photo)
   
