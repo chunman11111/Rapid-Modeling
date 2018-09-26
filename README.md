@@ -7,13 +7,13 @@ A micro course at NCTU for rapid modeling using web-based apps, kits, and photog
 
 This micro course is designed for non-design background students to start modeling for illustration, visualization and VR/MR purposes using free, online and/or easy-to-use tools. The 18-hour course include 3 parts, 6 hours each:
 
-1. Manual modeling: concept and basics
+1. [Manual modeling](#manual-modeling): concept and basics
 2. Photogrammetry: intro and basics
 3. Hybrid modeling: intro and applications
 
 本課程為針對非設計背景學生設計的微學分課程，主要運用雲端、影像等簡易工具，學習3D建模基礎，可供應用於插圖、視覺化、與虛擬實境等用途。課程合計18小時，分為三單元，每單元6小時，每次上課3小時。三個單元為：
 
-1. 手動建模：概念與基礎 &rarr; 09/25, 26
+1. [手動建模](#manual-modeling)：概念與基礎 &rarr; 09/25, 26
 2. 影像建模：簡介與基礎 &rarr; 10/2, 3
 3. 混搭建模：簡介與應用 &rarr; 10/16, 17
 
@@ -42,7 +42,7 @@ This micro course is designed for non-design background students to start modeli
   * Rhino 5 for Mac: a license needs to be purchased after the trial period.
 * [Other free online 3D CAD/modeling softwares...](https://all3dp.com/1/best-free-online-cad-software/)
 
-## Manual Modeling
+## Manual Modeling 1A
 
 就像雕塑技法是立體造型的基礎一樣，手動建模是3D建模的基本功，有助於建構空間、座標、幾何、形體觀念以及工具的操作手感。還是要好好練。
 
@@ -64,8 +64,22 @@ This micro course is designed for non-design background students to start modeli
   * Export 匯出
   * Measurement 測量
 * SketchUp Make
-  * Match Photo 相片對照建模法 [Tutorial](https://help.sketchup.com/en/sketchup/matching-photo-model-or-model-photo)
+  * Match Photo 相片對照建模法 &rarr; [Tutorial](https://help.sketchup.com/en/sketchup/matching-photo-model-or-model-photo)
   
+#### Exercise
+```
+* 1A: Precision modeling: Choose a daily object or furniture with mostly straight lines and flat surfaces, i.e. less curvy shape. Measure the object, plan your modeling process, take photos for texture, then build the mode. \
+精準建模：選擇一件居家常見物件或傢俱，外形盡可能直線或平面，少一點曲線或弧面。仔細丈量尺寸、規劃建模步驟、拍照取材後，開始建模。
+```
+
+## Manual Modeling 1B
+
+
+
+#### Exercise
+* 1B:
+* 1B:
+
 ## Photogrammetry
 
 ## Alternative/Augmented Modeling
