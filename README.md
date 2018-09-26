@@ -67,13 +67,11 @@ This micro course is designed for non-design background students to start modeli
   * Match Photo 相片對照建模法 &rarr; [Tutorial](https://help.sketchup.com/en/sketchup/matching-photo-model-or-model-photo)
   
 #### Exercise
-```
-* 1A: Precision modeling: Choose a daily object or furniture with mostly straight lines and flat surfaces, i.e. less curvy shape. Measure the object, plan your modeling process, take photos for texture, then build the mode. \
+
+1A: Precision modeling: Choose a daily object or furniture with mostly straight lines and flat surfaces, i.e. less curvy shape. Measure the object, plan your modeling process, take photos for texture, then build the mode. \
 精準建模：選擇一件居家常見物件或傢俱，外形盡可能直線或平面，少一點曲線或弧面。仔細丈量尺寸、規劃建模步驟、拍照取材後，開始建模。
-```
 
 ## Manual Modeling 1B
-
 
 
 #### Exercise
