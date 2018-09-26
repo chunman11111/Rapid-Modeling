@@ -82,8 +82,7 @@ Precision modeling: Choose a daily object or furniture with mostly straight line
 09/26/2018
 
 In-class practises
-* Stool
-* Table
+* Download [sample plan 01](./img/sample_plan_01.jpg), [sample plan 02](./img/sample_plan_02.jpg)
 * 
 
 #### Exercise
