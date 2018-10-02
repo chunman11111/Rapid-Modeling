@@ -1,4 +1,4 @@
-w# Photogrammetry
+# Photogrammetry
 
 Software and tools to be used in the following sessions:
 * Agisoft PhotoScan (Mac/Win)
@@ -51,30 +51,44 @@ Rule of thumb: clear and recognizable visual features
 
 ### Agisoft PhotoScan
 
-* 單機版，免費試用版30天。標準/專業版需付費。
-* 適合一般用途，大型模型需仰賴高階顯卡增加運算能力。
-* 流程：
-  1. Workflow &rarr; Add Photos or Add Folder...
-  1. Align Photos...
-  1. Build Dense Cloud...
-  1. Build Mesh...
-  1. Build Texture...
+* 單機使用。30天免費試用版(專業版)。
+* PROS: 適合一般用途。
+* CONS: 較慢，大型模型需仰賴高階顯卡增加運算能力；需每個步驟監督。
+
+步驟(Menu > Workflow)：
+1. Add Photos or Add Folder...
+1. Align Photos...
+1. Build Dense Cloud...
+1. Build Mesh...
+1. Build Texture...
 
 ### Altizure
 
-* 雲端服務，免費使用與建模，付費下載。
-* 建模品質佳、聰明。
+* 雲端服務，免費建模，付費下載。
+* PROS: 簡單、免費建模、建模品質佳、聰明、一鍵執行。
+* CONS: 無法自訂建模參數。
+
+步驟：
+* 開啟新專案 > 匯入照片 > 開始建模
 
 ### Autodesk ReCap Pro
 
-* 學生免費使用，每個專案至多100張照片。付費專業版不限張數。
+* 學生免費使用，每個專案至多100張照片。
 * 內含 ReCap & ReCap Photo。
-* 可編輯網格模型。
+* 可編輯、修整 mesh 模型。
+
+步驟：
+1. 在 ReCap Photo 中，選擇新專案類型 > Drone or Object
+1. 匯入照片 > 開始建模（一鍵執行）
 
 ### Meshroom
 
 * Windows only. Open source.
 * PROS: 可一鍵執行、亦可調整參數。建模品質佳。
+* CONS: 沒有明顯缺點。
+
+步驟：
+1. 開啟新專案 > 匯入照片 > 開始建模
 
 ### Meshmixer (Mesh editor)
 
