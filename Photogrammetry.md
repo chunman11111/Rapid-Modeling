@@ -1,4 +1,4 @@
-# Photogrammetry
+w# Photogrammetry
 
 Software and tools to be used in the following sessions:
 * Agisoft PhotoScan (Mac/Win)
@@ -40,20 +40,25 @@ Rule of thumb: clear and recognizable visual features
    匯入照片 &rarr; 同時取得相機參數
 2. Photo alignment (matching) & feature extraction &rarr; Feature matching \
    從照片取得特徵點、照片與特徵點配對
-3. Structure from Motion (SfM)
-4. Build dense point cloud
-5. Build mesh
-6. Build texture
-
-3. 動作推斷結構 &rarr; 反推相機位置、建立空間與幾何結構資訊
-4. 建立高密度點雲
-5. 建立網格模型
-6. 建立材質貼圖
+3. Structure from Motion (SfM) \
+   動作推斷結構 &rarr; 反推相機位置、建立空間與幾何結構資訊
+4. Build dense point cloud \
+   建立高密度點雲
+5. Build mesh \
+   建立網格模型
+6. Build texture \
+   建立材質貼圖
 
 ### Agisoft PhotoScan
 
-* 單機版，免費試用30天，標準/專業版需付費。
-* 適用於一般簡單模型，大型模型需仰賴高階顯卡增加運算能力。
+* 單機版，免費試用版30天。標準/專業版需付費。
+* 適合一般用途，大型模型需仰賴高階顯卡增加運算能力。
+* 流程：
+  1. Workflow &rarr; Add Photos or Add Folder...
+  1. Align Photos...
+  1. Build Dense Cloud...
+  1. Build Mesh...
+  1. Build Texture...
 
 ### Altizure
 
@@ -63,11 +68,13 @@ Rule of thumb: clear and recognizable visual features
 ### Autodesk ReCap Pro
 
 * 學生免費使用，每個專案至多100張照片。付費專業版不限張數。
+* 內含 ReCap & ReCap Photo。
 * 可編輯網格模型。
 
 ### Meshroom
 
 * Windows only. Open source.
+* PROS: 可一鍵執行、亦可調整參數。建模品質佳。
 
 ### Meshmixer (Mesh editor)
 
