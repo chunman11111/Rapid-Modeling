@@ -1,17 +1,9 @@
 # Photogrammetry
 
-Software and tools to be used in the following sessions:
-* Agisoft PhotoScan (Mac/Win)
-* Altizure (Cloud/App)
-* Autodesk ReCap Pro (Cloud/Win)
-* MeshLab (Mac/Win)
-* Meshmixer (Mac/Win)
-* Meshroom (Win)
-
 ## Session 2A
 
 參考資料
-* TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (codename: SeaDragon)
+* TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (YouTube)
 * [範例下載](https://drive.google.com/open?id=1fUwpXxOF5bZ7r-NL2cx3kXOfNyrwwxbk)
 
 ### Photo taking 拍照注意事項
@@ -49,9 +41,11 @@ Rule of thumb: clear and recognizable visual features
 6. Build texture \
    建立材質貼圖
 
-### Agisoft PhotoScan
+----
+### Agisoft PhotoScan &rarr; [Website](http://www.agisoft.com)
 
-* 單機使用。30天免費試用版(專業版)。
+* 單機版：MacOS/Windows/Linux
+* 30天免費試用版(專業版)。
 * PROS: 適合一般用途。
 * CONS: 較慢，大型模型需仰賴高階顯卡增加運算能力；需每個步驟監督。
 
@@ -62,8 +56,10 @@ Rule of thumb: clear and recognizable visual features
 1. Build Mesh...
 1. Build Texture...
 
-### Altizure
+### Altizure &rarr; [Website](https://www.altizure.com)
 
+* 行動版/線上管理：Web/iOS/Android
+* 桌面版/離線瀏覽/轉換器：MacOS/Windows &rarr; [Download](https://www.altizure.com/desktop)
 * 雲端服務，免費建模，付費下載。
 * PROS: 簡單、免費建模、建模品質佳、聰明、一鍵執行。
 * CONS: 無法自訂建模參數。
@@ -71,9 +67,9 @@ Rule of thumb: clear and recognizable visual features
 步驟：
 * 開啟新專案 > 匯入照片 > 開始建模
 
-### Autodesk ReCap Pro
+### Autodesk ReCap Pro &rarr; [Download](https://www.autodesk.com/education/free-software/recap-pro)
 
-* 學生免費使用，每個專案至多100張照片。
+* 學生可免費使用，每個專案至多100張照片。
 * 內含 ReCap & ReCap Photo。
 * 可編輯、修整 mesh 模型。
 
@@ -81,15 +77,36 @@ Rule of thumb: clear and recognizable visual features
 1. 在 ReCap Photo 中，選擇新專案類型 > Drone or Object
 1. 匯入照片 > 開始建模（一鍵執行）
 
-### Meshroom
+### Meshroom &rarr; [Website](https://alicevision.github.io)
 
-* Windows only. Open source.
+* 單機版：Windows/Linux &rarr; [Download](https://github.com/alicevision/meshroom/releases/tag/v2018.1.0)
+* 開源軟體
+* 硬體需求：支援CUDA的Nvidia顯卡
 * PROS: 可一鍵執行、亦可調整參數。建模品質佳。
 * CONS: 沒有明顯缺點。
 
 步驟：
 1. 開啟新專案 > 匯入照片 > 開始建模
 
+### COLMAP &rarr; [Website](https://colmap.github.io)
+
+* 單機版：MacOS/Windows &rarr; [Download](https://github.com/colmap/colmap/releases), Linux/Unix/BSD &rarr; [Download](https://repology.org/metapackage/colmap/versions)
+* 開源軟體
+* 若欲生成高密度點雲(dense cloud)，需使用支援CUDA的顯卡。
+
+步驟：
+* 從主選單 Reconstruction > Automatic Reconstruction，設定工作資料夾、照片資料夾後，即可自動工作。
+
+----
 ### Meshmixer (Mesh editor)
 
+TBD
+
 ### MeshLab (Mesh editor)
+
+TBD
+
+----
+## Session 2B
+
+3D image mapping or drone modeling.
