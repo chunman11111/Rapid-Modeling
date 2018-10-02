@@ -36,15 +36,15 @@ Rule of thumb: clear and recognizable visual features
 
 ### Modeling Process 建模流程
 
-1. Import photos &rarr; retrieve camera parameters
-2. Photo alignment (matching) & feature extraction &rarr; Feature matching
+1. Import photos &rarr; retrieve camera parameters \
+   匯入照片 &rarr; 同時取得相機參數
+2. Photo alignment (matching) & feature extraction &rarr; Feature matching \
+   從照片取得特徵點、照片與特徵點配對
 3. Structure from Motion (SfM)
 4. Build dense point cloud
 5. Build mesh
 6. Build texture
 
-1. 匯入照片 &rarr; 同時取得相機參數
-2. 從照片取得特徵點、照片與特徵點配對
 3. 動作推斷結構 &rarr; 反推相機位置、建立空間與幾何結構資訊
 4. 建立高密度點雲
 5. 建立網格模型
