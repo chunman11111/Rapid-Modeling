@@ -1,6 +1,6 @@
 # Manual Modeling
 
-## Manual Modeling 1A
+## Session 1A
 09/25/2018
 
 就像雕塑技法是立體造型的基礎一樣，手動建模是3D建模的基本功，有助於建構空間、座標、幾何、形體觀念以及工具的操作手感。還是要好好練。
@@ -36,7 +36,7 @@ Precision modeling: Choose a daily object or furniture with mostly straight line
 
 精準建模：選擇一件居家常見物件或傢俱，外形盡可能直線或平面，少一點曲線或弧面。仔細丈量尺寸、規劃建模步驟、拍照取材後，再進行建模。要求：尺寸正確、零組件以群組或元件分類管理、顏色材質接近原物件。
 
-## Manual Modeling 1B
+## Session 1B
 09/26/2018
 
 In-class practises
