@@ -12,6 +12,7 @@ Software and tools to be used in the following sessions:
 
 參考資料
 * TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (codename: SeaDragon)
+* [範例下載](https://drive.google.com/open?id=1fUwpXxOF5bZ7r-NL2cx3kXOfNyrwwxbk)
 
 ### Photo taking 拍照注意事項
 
