@@ -7,14 +7,14 @@ A micro course at NCTU for rapid modeling using web-based apps, kits, and photog
 
 This micro course is designed for non-design background students to start modeling for illustration, visualization and VR/MR purposes using free, online and/or easy-to-use tools. The 18-hour course include 3 parts, 6 hours each:
 
-1. [Manual modeling](#manual-modeling): concept and basics
-2. Photogrammetry: intro and basics
+1. [Manual modeling](./Manual-Modeling.md): concept and basics
+2. [Photogrammetry](./Photogrammetry.md): intro and basics
 3. Hybrid modeling: intro and applications
 
 本課程為針對非設計背景學生設計的微學分課程，主要運用雲端、影像等簡易工具，學習3D建模基礎，可供應用於插圖、視覺化、與虛擬實境等用途。課程合計18小時，分為三單元，每單元6小時，每次上課3小時。三個單元為：
 
-1. [手動建模](#manual-modeling)：概念與基礎 &rarr; 09/25, 26
-2. 影像建模：簡介與基礎 &rarr; 10/2, 3
+1. [手動建模](./Manual-Modeling.md)：概念與基礎 &rarr; 09/25, 26
+2. [影像建模](./Photogrammetry.md)：簡介與基礎 &rarr; 10/2, 3
 3. 混搭建模：簡介與應用 &rarr; 10/16, 17
 
 ## Tools for Manual Modeling
@@ -42,53 +42,15 @@ This micro course is designed for non-design background students to start modeli
   * Rhino 5 for Mac: a license needs to be purchased after the trial period.
 * [Other free online 3D CAD/modeling softwares...](https://all3dp.com/1/best-free-online-cad-software/)
 
-## Manual Modeling 1A
-09/25/2018
+## Tools for Photogrammetric Modeling
 
-就像雕塑技法是立體造型的基礎一樣，手動建模是3D建模的基本功，有助於建構空間、座標、幾何、形體觀念以及工具的操作手感。還是要好好練。
-
-### Everyone can model: basic concepts 人人都能建模：觀念篇
-
-* 3D space & coordinate system 三維空間和座標系統
-* Point (vertex) - line (curve) - face (surface) - solid (volume) 點、線、面、體
-* Geometric modeling 幾何建模
-* NURBS Modeling 曲線/曲面建模
-* Polygon Modeling 多面體建模
-* Mesh Modeling 網格建模
-  * Subdivision Surfaces 曲面細分
-
-### SketchUp Free
-
-* Primitives & basic tools 原形與基本工具
-* Composition 混用與組合
-* Linear/Rotational Copy 線性/旋轉複製
-* Color & Texture 顏色與質感
-* Grouping 群組
-* Component 元件
-* Export 匯出
-* Measurement 測量
-
-### SketchUp Make
-
-* Match Photo 相片對照建模法 &rarr; [Tutorial](https://help.sketchup.com/en/sketchup/matching-photo-model-or-model-photo)
-
-### Exercise 1A
-
-Precision modeling: Choose a daily object or furniture with mostly straight lines and flat surfaces, i.e. less curvy shape. Measure the object, plan your modeling process, take photos for texture, then build the mode. Dimension should be correct. Parts should be organized by groups or components. Color and texture should close to the original object.
-
-精準建模：選擇一件居家常見物件或傢俱，外形盡可能直線或平面，少一點曲線或弧面。仔細丈量尺寸、規劃建模步驟、拍照取材後，再進行建模。要求：尺寸正確、零組件以群組或元件分類管理、顏色材質接近原物件。
-
-## Manual Modeling 1B
-09/26/2018
-
-In-class practises
-* Download [sample plan 01](./img/sample_plan_01.jpg), [sample plan 02](./img/sample_plan_02.jpg)
-* 
-
-#### Exercise
-* 1B:
-* 1B:
-
-## Photogrammetry
-
-## Alternative/Augmented Modeling
+* [Autodesk ReCap Pro](https://www.autodesk.com/education/free-software/recap-pro) (Windows only. Free for students)
+  * Sign up using your school email.
+  * Max. 100 images for the free version.
+  * Cloud computing.
+* [Agisoft PhotoScan](http://www.agisoft.com) (Mac/Win. 30-day free trial)
+  * Relying on your own computing power.
+* [Altizure](https://www.altizure.com) (Mac/Win/Mobile. Cloud-only)
+  * Free for unlimited modeling.
+  * $$$ for model downloding.
+  * Cloud computing.
