@@ -2,7 +2,7 @@
 
 ## Session 2A
 
-基礎素材
+Introductions 基礎素材
 * 數位相片與集體描繪世界的想望 TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (YouTube)
 * 動作推斷結構(Structure from Motion) [解說1](https://www.youtube.com/watch?v=i7ierVkXYa8), [解說2](https://www.youtube.com/watch?v=JJ6szGs6mUo), [解說3](https://www.youtube.com/watch?v=5ceiOd8Yx3g) (YouTube)
 * [練習檔下載：含照片與完成Obj模型](https://drive.google.com/open?id=1fUwpXxOF5bZ7r-NL2cx3kXOfNyrwwxbk) (Google Cloud)
@@ -110,4 +110,10 @@ TBD
 ----
 ## Session 2B
 
-3D image mapping or drone modeling.
+Concepts and practices for Drone 3D mapping, or Reality Capture.
+
+* [Introducing ReCap Photo](https://www.youtube.com/watch?v=jups9i9fKvQ) (YouTube)
+* [How to take the right photos?](https://www.youtube.com/watch?v=-F-mBJQcthE)
+* [Experiencing the ReCap 360 Pro (2016)](https://www.youtube.com/watch?v=sJoGPHi0lAg)
+* [Photorealistic 3D and Panoramic Visualization](https://www.youtube.com/watch?v=u21GaKndLyA)
+* Sample Projects: [Set 1](https://www.youtube.com/watch?v=JT0i8S9FovM), [Set 2](https://www.youtube.com/watch?v=PIjprx2Ax1A)
