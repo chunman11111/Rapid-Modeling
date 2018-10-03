@@ -41,16 +41,3 @@ This micro course is designed for non-design background students to start modeli
   * Rhino 6 for Windows: if you want to use it after the trial period, contact me for a NCTU license.
   * Rhino 5 for Mac: a license needs to be purchased after the trial period.
 * [Other free online 3D CAD/modeling softwares...](https://all3dp.com/1/best-free-online-cad-software/)
-
-## Tools for Photogrammetric Modeling
-
-* [Autodesk ReCap Pro](https://www.autodesk.com/education/free-software/recap-pro) (Windows only. Free for students)
-  * Sign up using your school email.
-  * Max. 100 images for the free version.
-  * Cloud computing.
-* [Agisoft PhotoScan](http://www.agisoft.com) (Mac/Win. 30-day free trial)
-  * Relying on your own computing power.
-* [Altizure](https://www.altizure.com) (Mac/Win/Mobile. Cloud-only)
-  * Free for unlimited modeling.
-  * $$$ for model downloding.
-  * Cloud computing.
