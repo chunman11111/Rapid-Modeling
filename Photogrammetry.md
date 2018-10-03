@@ -2,9 +2,10 @@
 
 ## Session 2A
 
-參考資料
-* TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (YouTube)
-* [範例下載](https://drive.google.com/open?id=1fUwpXxOF5bZ7r-NL2cx3kXOfNyrwwxbk)
+基礎素材
+* 數位相片與集體描繪世界的想望 TED 2007: [Demo of PhotoSynth](https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth) (YouTube)
+* 動作推斷結構(Structure from Motion) [解說1](https://www.youtube.com/watch?v=i7ierVkXYa8) [解說2](https://www.youtube.com/watch?v=JJ6szGs6mUo) [解說3](https://www.youtube.com/watch?v=5ceiOd8Yx3g)
+* [練習檔下載：含照片與完成Obj模型](https://drive.google.com/open?id=1fUwpXxOF5bZ7r-NL2cx3kXOfNyrwwxbk)
 
 ### Photo taking 拍照注意事項
 
