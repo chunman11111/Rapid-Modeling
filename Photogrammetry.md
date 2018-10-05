@@ -89,6 +89,13 @@ Rule of thumb: clear and recognizable visual features
 步驟：
 1. 開啟新專案 > 匯入照片 > 開始建模
 
+### VisualSFM &rarr; [Website]()
+
+* 單機版、開源軟體
+* [VisualSFM Windows Installer](http://ccwu.me/vsfm/) &rarr; 若有支援CUDA的顯卡，可選擇CUDA版。
+* [VisualSFM OS X Installer](https://github.com/luckybulldozer/VisualSFM_OS_X_Installer) &rarr; 安裝
+稍麻煩，且尚無CUDA支援。請見詳細安裝說明。
+
 ### COLMAP &rarr; [Website](https://colmap.github.io)
 
 * 單機版：MacOS/Windows &rarr; [Download](https://github.com/colmap/colmap/releases), Linux/Unix/BSD &rarr; [Download](https://repology.org/metapackage/colmap/versions)
